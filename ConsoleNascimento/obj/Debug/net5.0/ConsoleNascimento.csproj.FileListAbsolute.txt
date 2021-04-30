@@ -1,0 +1,16 @@
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\ConsoleNascimento\bin\Debug\net5.0\ConsoleNascimento.exe
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\ConsoleNascimento\bin\Debug\net5.0\ConsoleNascimento.deps.json
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\ConsoleNascimento\bin\Debug\net5.0\ConsoleNascimento.runtimeconfig.json
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\ConsoleNascimento\bin\Debug\net5.0\ConsoleNascimento.runtimeconfig.dev.json
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\ConsoleNascimento\bin\Debug\net5.0\ConsoleNascimento.dll
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\ConsoleNascimento\bin\Debug\net5.0\ref\ConsoleNascimento.dll
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\ConsoleNascimento\bin\Debug\net5.0\ConsoleNascimento.pdb
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\ConsoleNascimento\obj\Debug\net5.0\ConsoleNascimento.csprojAssemblyReference.cache
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\ConsoleNascimento\obj\Debug\net5.0\ConsoleNascimento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\ConsoleNascimento\obj\Debug\net5.0\ConsoleNascimento.AssemblyInfoInputs.cache
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\ConsoleNascimento\obj\Debug\net5.0\ConsoleNascimento.AssemblyInfo.cs
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\ConsoleNascimento\obj\Debug\net5.0\ConsoleNascimento.csproj.CoreCompileInputs.cache
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\ConsoleNascimento\obj\Debug\net5.0\ConsoleNascimento.dll
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\ConsoleNascimento\obj\Debug\net5.0\ref\ConsoleNascimento.dll
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\ConsoleNascimento\obj\Debug\net5.0\ConsoleNascimento.pdb
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\ConsoleNascimento\obj\Debug\net5.0\ConsoleNascimento.genruntimeconfig.cache
