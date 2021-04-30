@@ -1,0 +1,16 @@
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\ConsoleAumento\bin\Debug\net5.0\ConsoleAumento.exe
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\ConsoleAumento\bin\Debug\net5.0\ConsoleAumento.deps.json
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\ConsoleAumento\bin\Debug\net5.0\ConsoleAumento.runtimeconfig.json
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\ConsoleAumento\bin\Debug\net5.0\ConsoleAumento.runtimeconfig.dev.json
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\ConsoleAumento\bin\Debug\net5.0\ConsoleAumento.dll
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\ConsoleAumento\bin\Debug\net5.0\ref\ConsoleAumento.dll
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\ConsoleAumento\bin\Debug\net5.0\ConsoleAumento.pdb
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\ConsoleAumento\obj\Debug\net5.0\ConsoleAumento.csprojAssemblyReference.cache
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\ConsoleAumento\obj\Debug\net5.0\ConsoleAumento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\ConsoleAumento\obj\Debug\net5.0\ConsoleAumento.AssemblyInfoInputs.cache
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\ConsoleAumento\obj\Debug\net5.0\ConsoleAumento.AssemblyInfo.cs
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\ConsoleAumento\obj\Debug\net5.0\ConsoleAumento.csproj.CoreCompileInputs.cache
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\ConsoleAumento\obj\Debug\net5.0\ConsoleAumento.dll
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\ConsoleAumento\obj\Debug\net5.0\ref\ConsoleAumento.dll
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\ConsoleAumento\obj\Debug\net5.0\ConsoleAumento.pdb
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\ConsoleAumento\obj\Debug\net5.0\ConsoleAumento.genruntimeconfig.cache
