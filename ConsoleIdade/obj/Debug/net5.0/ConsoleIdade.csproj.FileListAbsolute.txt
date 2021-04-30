@@ -1,0 +1,16 @@
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\ConsoleIdade\bin\Debug\net5.0\ConsoleIdade.exe
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\ConsoleIdade\bin\Debug\net5.0\ConsoleIdade.deps.json
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\ConsoleIdade\bin\Debug\net5.0\ConsoleIdade.runtimeconfig.json
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\ConsoleIdade\bin\Debug\net5.0\ConsoleIdade.runtimeconfig.dev.json
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\ConsoleIdade\bin\Debug\net5.0\ConsoleIdade.dll
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\ConsoleIdade\bin\Debug\net5.0\ref\ConsoleIdade.dll
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\ConsoleIdade\bin\Debug\net5.0\ConsoleIdade.pdb
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\ConsoleIdade\obj\Debug\net5.0\ConsoleIdade.csprojAssemblyReference.cache
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\ConsoleIdade\obj\Debug\net5.0\ConsoleIdade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\ConsoleIdade\obj\Debug\net5.0\ConsoleIdade.AssemblyInfoInputs.cache
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\ConsoleIdade\obj\Debug\net5.0\ConsoleIdade.AssemblyInfo.cs
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\ConsoleIdade\obj\Debug\net5.0\ConsoleIdade.csproj.CoreCompileInputs.cache
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\ConsoleIdade\obj\Debug\net5.0\ConsoleIdade.dll
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\ConsoleIdade\obj\Debug\net5.0\ref\ConsoleIdade.dll
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\ConsoleIdade\obj\Debug\net5.0\ConsoleIdade.pdb
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\ConsoleIdade\obj\Debug\net5.0\ConsoleIdade.genruntimeconfig.cache
