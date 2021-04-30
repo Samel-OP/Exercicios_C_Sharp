@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ConsoleNadadorDesafio/1.0.0": {
+        "runtime": {
+          "ConsoleNadadorDesafio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleNadadorDesafio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
