@@ -1,0 +1,16 @@
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\ConsoleMedia\bin\Debug\net5.0\ConsoleMedia.exe
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\ConsoleMedia\bin\Debug\net5.0\ConsoleMedia.deps.json
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\ConsoleMedia\bin\Debug\net5.0\ConsoleMedia.runtimeconfig.json
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\ConsoleMedia\bin\Debug\net5.0\ConsoleMedia.runtimeconfig.dev.json
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\ConsoleMedia\bin\Debug\net5.0\ConsoleMedia.dll
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\ConsoleMedia\bin\Debug\net5.0\ref\ConsoleMedia.dll
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\ConsoleMedia\bin\Debug\net5.0\ConsoleMedia.pdb
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\ConsoleMedia\obj\Debug\net5.0\ConsoleMedia.csprojAssemblyReference.cache
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\ConsoleMedia\obj\Debug\net5.0\ConsoleMedia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\ConsoleMedia\obj\Debug\net5.0\ConsoleMedia.AssemblyInfoInputs.cache
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\ConsoleMedia\obj\Debug\net5.0\ConsoleMedia.AssemblyInfo.cs
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\ConsoleMedia\obj\Debug\net5.0\ConsoleMedia.csproj.CoreCompileInputs.cache
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\ConsoleMedia\obj\Debug\net5.0\ConsoleMedia.dll
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\ConsoleMedia\obj\Debug\net5.0\ref\ConsoleMedia.dll
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\ConsoleMedia\obj\Debug\net5.0\ConsoleMedia.pdb
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\ConsoleMedia\obj\Debug\net5.0\ConsoleMedia.genruntimeconfig.cache
