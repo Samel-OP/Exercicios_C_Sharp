@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\samue\\Documents\\Desenvolvimento de sistemas\\Projetos\\Backend - projetos\\ConsoleIdade\\ConsoleIdade.csproj",
+      "projectUniqueName": "C:\\Users\\samue\\Documents\\Desenvolvimento de sistemas\\Projetos\\Backend - projetos\\Exercícios\\ConsoleIdade\\ConsoleIdade.csproj",
       "projectName": "ConsoleIdade",
-      "projectPath": "C:\\Users\\samue\\Documents\\Desenvolvimento de sistemas\\Projetos\\Backend - projetos\\ConsoleIdade\\ConsoleIdade.csproj",
+      "projectPath": "C:\\Users\\samue\\Documents\\Desenvolvimento de sistemas\\Projetos\\Backend - projetos\\Exercícios\\ConsoleIdade\\ConsoleIdade.csproj",
       "packagesPath": "C:\\Users\\samue\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\samue\\Documents\\Desenvolvimento de sistemas\\Projetos\\Backend - projetos\\ConsoleIdade\\obj\\",
+      "outputPath": "C:\\Users\\samue\\Documents\\Desenvolvimento de sistemas\\Projetos\\Backend - projetos\\Exercícios\\ConsoleIdade\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\samue\\AppData\\Roaming\\NuGet\\NuGet.Config"

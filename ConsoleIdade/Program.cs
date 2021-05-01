@@ -10,16 +10,16 @@ namespace ConsoleIdade
             int idade = int.Parse(Console.ReadLine());
 
             int meses = idade * 12;
-            Console.WriteLine("Sua idade em meses: " + meses);
+            Console.WriteLine("Sua idade em meses é: " + meses);
 
             int dias = idade * 365;
-            Console.WriteLine("Sua idade em dias: " + dias);
+            Console.WriteLine("Sua idade em dias é: " + dias);
 
             int horas = idade * 8760;
-            Console.WriteLine("Sua idade em horas: " + horas);
+            Console.WriteLine("Sua idade em horas é: " + horas);
 
             int minutos = idade * 525600;
-            Console.WriteLine("Sua idade em minutos: " + minutos);
+            Console.WriteLine("Sua idade em minutos é: " + minutos);
         }
     }
 }
