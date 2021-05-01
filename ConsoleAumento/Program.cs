@@ -12,10 +12,10 @@ namespace ConsoleAumento
             Console.Write("Escreva seu salário: ");
             float salario = float.Parse(Console.ReadLine());
 
-            if(salario <= 500)
+            if (salario <= 500)
             {
                 double aumento = salario + (salario * 0.3);
-                Console.WriteLine(nome + " agora seu salário é R$" + aumento);
+                Console.WriteLine(nome + " seu salário reajustado é R$" + aumento);
             }
             else
             {
