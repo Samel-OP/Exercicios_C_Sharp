@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\samue\\Documents\\Desenvolvimento de sistemas\\Projetos\\Backend - projetos\\ConsoleNadadorDesafio\\ConsoleNadadorDesafio.csproj",
+      "projectUniqueName": "C:\\Users\\samue\\Documents\\Desenvolvimento de sistemas\\Projetos\\Backend - projetos\\Exercícios\\ConsoleNadadorDesafio\\ConsoleNadadorDesafio.csproj",
       "projectName": "ConsoleNadadorDesafio",
-      "projectPath": "C:\\Users\\samue\\Documents\\Desenvolvimento de sistemas\\Projetos\\Backend - projetos\\ConsoleNadadorDesafio\\ConsoleNadadorDesafio.csproj",
+      "projectPath": "C:\\Users\\samue\\Documents\\Desenvolvimento de sistemas\\Projetos\\Backend - projetos\\Exercícios\\ConsoleNadadorDesafio\\ConsoleNadadorDesafio.csproj",
       "packagesPath": "C:\\Users\\samue\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\samue\\Documents\\Desenvolvimento de sistemas\\Projetos\\Backend - projetos\\ConsoleNadadorDesafio\\obj\\",
+      "outputPath": "C:\\Users\\samue\\Documents\\Desenvolvimento de sistemas\\Projetos\\Backend - projetos\\Exercícios\\ConsoleNadadorDesafio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\samue\\AppData\\Roaming\\NuGet\\NuGet.Config"

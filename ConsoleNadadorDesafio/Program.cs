@@ -14,23 +14,23 @@ namespace ConsoleNadadorDesafio
             
             if (idade >= 5 && idade <= 7)
             {
-                Console.WriteLine("Infantil A");   
+                Console.WriteLine("Sua categoria é infantil A");   
             }
             if (idade >= 8 && idade <= 10)
             {
-                Console.WriteLine("Infantil B");
+                Console.WriteLine("Sua categoria é infantil B");
             }
             if (idade >= 11 && idade <= 13)
             {
-                Console.WriteLine("Juvenil A");
+                Console.WriteLine("Sua categoria é juvenil A");
             }
             if (idade >= 14 && idade <= 17)
             {
-                Console.WriteLine("Juvenil B");
+                Console.WriteLine("Sua categoria é juvenil B");
             }
             if (idade >= 18)
             {
-                Console.WriteLine("Sênior");
+                Console.WriteLine("Sua categoria é sênior");
             }      
         }
     }
