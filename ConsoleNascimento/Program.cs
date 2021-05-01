@@ -12,29 +12,28 @@ namespace ConsoleNascimento
             Console.Write("Escreva seu ano de nascimento: ");
             int nascimento = int.Parse(Console.ReadLine());
 
-            Console.Write("Escreva o ano atual: ");
-            int ano = int.Parse(Console.ReadLine());
+            int ano = DateTime.Now.Year;
 
             int idade = ano - nascimento;
 
-            float semanaIdade = idade * 52;
-          
+            int semanaIdade = idade * 52;
+
             Console.Write(nome + " sua idade é " + idade + " anos");
 
-             if (idade >= 18)
+            if (idade >= 18 && idade <= 59)
             {
-                Console.WriteLine(" - Você é adulto");             
+                Console.WriteLine(" - Adulto");
             }
-            // Tentei fazer um com idoso mas não consegui ;-; else if(idade >= 60)
-            //    {
-            //       Console.WriteLine("Você é Idoso");  
-            //    }
+            else if (idade > 60)
+            {
+                Console.WriteLine(" - Idoso");
+            }
             else
             {
-                Console.WriteLine(" - Você é menor de idade"); 
+                Console.WriteLine(" - Menor de idade");
             }
 
-            Console.WriteLine(nome + " sua idade convertida em semana é igual a " + semanaIdade + " semanas");
+            Console.WriteLine(nome + " sua idade convertida em semanas é igual a " + semanaIdade + " semanas");
         }
     }
 }

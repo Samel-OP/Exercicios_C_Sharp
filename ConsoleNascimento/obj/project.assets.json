@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\samue\\Documents\\Desenvolvimento de sistemas\\Projetos\\Backend - projetos\\ConsoleNascimento\\ConsoleNascimento.csproj",
+      "projectUniqueName": "C:\\Users\\samue\\Documents\\Desenvolvimento de sistemas\\Projetos\\Backend - projetos\\Exercícios\\ConsoleNascimento\\ConsoleNascimento.csproj",
       "projectName": "ConsoleNascimento",
-      "projectPath": "C:\\Users\\samue\\Documents\\Desenvolvimento de sistemas\\Projetos\\Backend - projetos\\ConsoleNascimento\\ConsoleNascimento.csproj",
+      "projectPath": "C:\\Users\\samue\\Documents\\Desenvolvimento de sistemas\\Projetos\\Backend - projetos\\Exercícios\\ConsoleNascimento\\ConsoleNascimento.csproj",
       "packagesPath": "C:\\Users\\samue\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\samue\\Documents\\Desenvolvimento de sistemas\\Projetos\\Backend - projetos\\ConsoleNascimento\\obj\\",
+      "outputPath": "C:\\Users\\samue\\Documents\\Desenvolvimento de sistemas\\Projetos\\Backend - projetos\\Exercícios\\ConsoleNascimento\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\samue\\AppData\\Roaming\\NuGet\\NuGet.Config"
