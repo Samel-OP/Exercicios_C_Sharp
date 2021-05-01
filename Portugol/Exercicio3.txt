@@ -1,0 +1,25 @@
+programa
+{
+        funcao inicio()
+        {
+          cadeia nome
+          real salario, aumento
+
+          escreva("Escreva o nome do funcionário: ")
+          leia(nome)          
+          
+          escreva("Escreva seu salário: ")
+          leia(salario)
+
+          se(salario <= 500)
+          {
+             aumento = salario + (salario * 0.3)
+             escreva(nome + " seu salário reajustado é R$" + aumento)
+          }
+          senao
+          {
+             escreva(nome + ", você não tem direito a aumento")
+	  }
+
+         }
+}

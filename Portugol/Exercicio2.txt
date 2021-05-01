@@ -1,0 +1,37 @@
+programa
+{
+        funcao inicio()
+        {
+          cadeia nome
+          inteiro nascimento, ano, idade, semanaIdade
+
+          escreva("Escreva seu nome: ")
+          leia(nome)          
+          
+          escreva("Escreva seu ano de nascimento: ")
+          leia(nascimento)
+
+          escreva("Escreva o ano atual: ")
+          leia(ano)
+        
+          idade = ano - nascimento
+
+	  semanaIdade = idade * 52
+		
+          escreva(nome + " sua idade é: " + idade + " anos")
+          
+	  se (idade >= 18 e idade <= 59)
+          {
+             escreva(" - Adulto " + "\n")
+          }
+          senao se (idade > 60)
+          {
+             escreva(" - Idoso " + "\n")
+          }
+          senao 
+          {
+             escreva(" - Menor de idade" + "\n")
+          }
+          escreva(nome + " sua idade convertida em semanas é igual a : " + semanaIdade + "semanas")
+        }
+}
